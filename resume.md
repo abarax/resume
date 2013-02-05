@@ -5,7 +5,7 @@ Leigh Appel Resumé
 Overview
 ---------
 
-*   Creating beautiful resumés from simple Markdown documents
+*	I am a professional programmer
 
 
 Experience
@@ -51,6 +51,5 @@ Awards
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
-
-*   Familiar with GNU Make, bash
+*   Python
+*	Java
