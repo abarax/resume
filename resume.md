@@ -48,7 +48,7 @@ Senior Software Developer, 2010 - Present
 - Created an Oracle BPM workflow proof-of-concept for a catering project while working in the solutions team.
 
 
-###Intelligent Pathways### 
+###Intelligent Pathways
 
 Senior Software Developer, 2008 - Present
 
@@ -109,7 +109,7 @@ Skills
 Personal Projects
 ------------------
 
-###Matasano Crypto Challenges**
+###Matasano Crypto Challenges
 
 The [Matasano Crypto Challenges!](http://www.matasano.com/articles/crypto-challenges/) are a set of increasingly difficult programming tasks that take challengers through the depths of implementing basic crypto primitives and then through the various weaknesses and attacks against them.  This has been a fantastic learning experience and I am happy to share my code with those that are interested, although that takes out a lot of the fun in doing them. I implemnted the first three sets in Python and then started again in Clojure.
 
@@ -120,7 +120,7 @@ Skills/Knowledge Gained:
 - Knowledge of various weaknesses in crypto systems and the attacks associated.
 
 
-###Autonomous Robot**
+###Autonomous Robot
  
 For a long time I have had a keen interest in robotics and hardware/software integration, so I embarked upon a goal of building an autonomous robot.
 The goal was reached after a furious month of building, programming and learning.
