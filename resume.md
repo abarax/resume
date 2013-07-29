@@ -15,9 +15,6 @@ Experience
 
     Senior Software Developer, 2010 - Present
 
-    -  Designed and developed complex distributed systems using Java which supported business processes relating to aircraft. These systems directly improved the 'On Time Performance' of the airline and saved a significant amount of both time and money for the business.
-    - Java, EJB, OSB, Weblogic, ANTLR, Coherence, Spring
-
     ***Unify Project***
 
 	- I was the lead on the new development of the 'Fare Search' web service. This is one of Virgin Australia's major sales channel's and hence, a critical part of the business. It services millions of requests per day and required an unending amount of performance investigation and architecting as well as coordination with numerous teams spanning the organisation.
@@ -99,3 +96,26 @@ Skills
 
 *   Python
 *	Java
+* 	EJB
+*	OSB 
+*   Weblogic
+*   ANTLR
+*   Coherence
+*   Spring
+
+Personal Projects
+------------------
+
+*	**Autonomous Robot**
+ 
+For a long time I have had a keen interest in robotics and hardware/software integration, so I embarked upon a goal of building an autonomous robot.
+The goal was reached after a furious month of building, programming and learning.
+ 
+Skills/Knowledge Gained:
+	- Arduino programming and hardware environment.
+	- C programming.
+	- Assembly Programming.
+	- Circuit building and diagrams.
+	- Soldering.
+	- Motors and Robotics.
+	- Hardware/Software integration and programming.
