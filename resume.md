@@ -11,7 +11,7 @@ Overview
 Experience
 ---------------
 
-*   ###Virgin Australia (Brisbane, QLD)###
+###Virgin Australia (Brisbane, QLD)###
 
     Senior Software Developer, 2010 - Present
 
