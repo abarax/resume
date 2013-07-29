@@ -5,7 +5,7 @@ Leigh Appel Resumé
 Overview
 ---------
 
-*	I am a professional programmer with a passion for learning new things and solving hard problems. I have a blog here [www.leighappel.com] and a programming/technology based podcast here [www.hackandheckle.com] plus you can also check out my github here [https://github.com/abarax]
+*	I am a professional programmer with a passion for learning new things and solving hard problems. I have a blog [here](www.leighappel.com) and a programming/technology based podcast [here](www.hackandheckle.com) plus you can also check out my github [here](https://github.com/abarax)
 
 
 Experience
@@ -96,15 +96,28 @@ Skills
 
 *   Python
 *	Java
+* 	Clojure
 * 	EJB
 *	OSB 
 *   Weblogic
 *   ANTLR
 *   Coherence
 *   Spring
+*	Ember
+* 	JQuery
 
 Personal Projects
 ------------------
+
+*	**Matasano Crypto Challenges**
+
+The [Matasano Crypto Challenges!](http://www.matasano.com/articles/crypto-challenges/) are a set of increasingly difficult programming tasks that take challengers through the depths of implementing basic crypto primitives and then through the various weaknesses and attacks against them.  This has been a fantastic learning experience and I am happy to share my code with those that are interested, although that takes out a lot of the fun in doing them. I implemnted the first three sets in Python and then started again in Clojure.
+
+Skills/Knowledge Gained:
+	- A deeper understanding of Python and Clojure programming.
+	- A much deeper understanding of Cryptographic primitives and algorithms.
+	- Knowledge of various weaknesses in crypto systems and the attacks associated.
+
 
 *	**Autonomous Robot**
  
