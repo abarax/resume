@@ -48,29 +48,25 @@ Senior Software Developer, 2010 - Present
 - Created an Oracle BPM workflow proof-of-concept for a catering project while working in the solutions team.
 
 
-*   **Intelligent Pathways**
+###Intelligent Pathways### - Senior Software Developer, 2008 - Present
 
-    Senior Software Developer, 2008 - Present
+***Car Pooling Project - Project Lead (2 years)***
 
-	***Car Pooling Project - Project Lead (2 years)***
-	
-	- Responsible for a team of two developers.
-	- Created work iterations for team members and project schedules/estimates using Atlassians bug tracking, issue tracking and project management software - JIRA.
-	- Handled client relationships with project teams at Qfleet (QLD Government) and Statefleet (NSW Governement).
-	- Test driven development in a JEE environment using Java, Spring, Hibernate, Cross Fire.
-	- Web service development using contract first design.
-	- User interface development and design using Adobe Flex.
-	- Responsible for system design specification of new features and estimation of work.
-	- System administration in both Linux and windows environements.
-	- Responsible for release scheduling and deployment of new versions into test and production environments.
+- Responsible for a team of two developers.
+- Created work iterations for team members and project schedules/estimates using Atlassians bug tracking, issue tracking and project management software - JIRA.
+- Handled client relationships with project teams at Qfleet (QLD Government) and Statefleet (NSW Governement).
+- Test driven development in a JEE environment using Java, Spring, Hibernate, Cross Fire.
+- Web service development using contract first design.
+- User interface development and design using Adobe Flex.
+- Responsible for system design specification of new features and estimation of work.
+- System administration in both Linux and windows environements.
+- Responsible for release scheduling and deployment of new versions into test and production environments.
 
 
-*   **Customer Management Technologies**
+###Customer Management Technologies - Software Developer, 2006 - 2008
 
-    Software Developer, 2006 - 2008
-
-    - Worked on various government client sites implementing changes and new features.
-    - Development and maintenance of Java Web services 
+- Worked on various government client sites implementing changes and new features.
+- Development and maintenance of Java Web services 
 
 
 Education
