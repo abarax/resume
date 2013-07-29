@@ -15,13 +15,12 @@ Experience
 
     Senior Software Developer, 2010 - Present
 
-    - I was the lead on the new development of the 'Fare Search' web service. This is one of Virgin Australia's major sales channel's and hence, a critical part of the business. It services millions of requests per day and required an unending amount of performance investigation and architecting.
     -  Designed and developed complex distributed systems using Java which supported business processes relating to aircraft. These systems directly improved the 'On Time Performance' of the airline and saved a significant amount of both time and money for the business.
     - Java, EJB, OSB, Weblogic, ANTLR, Coherence, Spring
 
     ***Unify Project***
 
-	- I was the lead on the new development of the 'Fare Search' web service. This is one of Virgin Australia's major sales channel's and hence, a critical part of the business. It services millions of requests per day and required an unending amount of performance investigation and architecting.
+	- I was the lead on the new development of the 'Fare Search' web service. This is one of Virgin Australia's major sales channel's and hence, a critical part of the business. It services millions of requests per day and required an unending amount of performance investigation and architecting as well as coordination with numerous teams spanning the organisation.
 	- I was requested to go on a trip to Dehli, India to ensure some key projects, that were outsourced, got over the line and met their deadlines. Virgin had contracts with external vendors that were dependant on the work being done in these projects and hence it was critical that they were delivered on time.  Once the projects started to delay myself and one other team member were sent to rescue them.
 	- Participated in the design and development of a connection manager proof-of-concept, using Oracle Coherence and OSB, to facilitate the replacement of Virgin Australia's core reservation system. This would later become a fully fledged connection pooling manager and saved thousands of dollars from being paid to external vendors.
     
@@ -46,7 +45,7 @@ Experience
 
 	- Designed and implemented Virgin Australia's Oracle OSB automated testing and build management system using Python, Maven, Weblogic and SoapUI. This greatly increased development productivity and confidence.
 	- Participated in various technical discussions and took a lead role in dictating key decisions for Virgin's technical direction. Including the use of event driven principles, Enterprise Java Beans, automated OSB builds and web service testing.
-	- Conducted presentations and design discussions in development team meetings .
+	- Conducted presentations and design discussions in development team meetings.
 	- Conducted design reviews, estimates and created proposals for continuous improvement.
 	- Created SOA Developer workstation set-up guides as well as Oracle OSB, Weblogic and Eclipse installation guides.
 	- Created an Oracle BPM workflow proof-of-concept for a catering project while working in the solutions team.
@@ -56,13 +55,25 @@ Experience
 
     Senior Software Developer, 2008 - Present
 
-    -   Worked with numerous clients 
+	***Car Pooling Project - Project Lead (2 years)***
+	
+	- Responsible for a team of two developers.
+	- Created work iterations for team members and project schedules/estimates using Atlassians bug tracking, issue tracking and project management software - JIRA.
+	- Handled client relationships with project teams at Qfleet (QLD Government) and Statefleet (NSW Governement).
+	- Test driven development in a JEE environment using Java, Spring, Hibernate, Cross Fire.
+	- Web service development using contract first design.
+	- User interface development and design using Adobe Flex.
+	- Responsible for system design specification of new features and estimation of work.
+	- System administration in both Linux and windows environements.
+	- Responsible for release scheduling and deployment of new versions into test and production environments.
+
 
 *   **Customer Management Technologies**
 
     Software Developer, 2006 - 2008
 
-    -   Add details
+    - Worked on various government client sites implementing changes and new features.
+    - Development and maintenance of Java Web services 
 
 
 Education
