@@ -5,7 +5,7 @@ Leigh Appel Resumé
 Overview
 ---------
 
-*	I am a professional programmer with a passion for learning new things and solving hard problems. For more about me, you can view my [blog](www.leighappel.com), and listen to a programming / technology-based [podcast](www.hackandheckle.com) I co-host. You can also check out my [GitHub](https://github.com/abarax)
+*	I am a professional programmer with a passion for learning new things and solving hard problems. For more about me, you can view my [blog](www.leighappel.com), and listen to a programming / technology-based [podcast](www.hackandheckle.com) I co-host. You can also check out my [GitHub](https://github.com/abarax).
 
 
 Experience
@@ -78,7 +78,7 @@ Education
 
 *   **Griffith University**
 
-   Bachelor of Information Technology, Computer Science 2003 - 2005
+   Bachelor of Information Technology, Computer Science 2003 - 2006
 
 
 Awards
