@@ -5,7 +5,7 @@ Leigh Appel Resumé
 Overview
 ---------
 
-*	I am a professional programmer with a passion for learning new things and solving hard problems. I have a blog [here](www.leighappel.com) and a programming/technology based podcast [here](www.hackandheckle.com) plus you can also check out my github [here](https://github.com/abarax)
+*	I am a professional programmer with a passion for learning new things and solving hard problems. For more about me, you can view my [blog](www.leighappel.com), and listen to a programming / technology-based [podcast](www.hackandheckle.com) I co-host. You can also check out my [GitHub](https://github.com/abarax)
 
 
 Experience
@@ -58,7 +58,7 @@ Senior Software Developer, 2008 - Present
 - Created work iterations for team members and project schedules/estimates using Atlassians bug tracking, issue tracking and project management software - JIRA.
 - Handled client relationships with project teams at Qfleet (QLD Government) and Statefleet (NSW Governement).
 - Test driven development in a JEE environment using Java, Spring, Hibernate, Cross Fire.
-- Web service development using contract first design.
+- Web service development using contract first design.s
 - User interface development and design using Adobe Flex.
 - Responsible for system design specification of new features and estimation of work.
 - System administration in both Linux and windows environements.
