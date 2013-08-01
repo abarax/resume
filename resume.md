@@ -69,7 +69,7 @@ Senior Software Developer, 2008 - Present
 
 Software Developer, 2006 - 2008
 
-- Worked on various government client sites implementing changes and new features.
+- Worked on various government client sites implementing changes and new features in Java and PL/SQL.
 - Development and maintenance of Java Web services 
 
 
@@ -99,6 +99,7 @@ Skills
 * 	Clojure
 * 	EJB
 *	OSB 
+*	Redis
 *   Weblogic
 *   ANTLR
 *   Coherence
