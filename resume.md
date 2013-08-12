@@ -5,7 +5,7 @@ Leigh Appel Resumé
 Overview
 ---------
 
-*	I am a professional programmer with a passion for learning new things and solving hard problems. For more about me, you can view my [blog](www.leighappel.com), and listen to a programming / technology-based [podcast](www.hackandheckle.com) I co-host. You can also check out my [GitHub](https://github.com/abarax).
+*	I am a professional programmer with a passion for learning new things and solving hard problems. For more about me, you can view my [blog](http://www.leighappel.com), and listen to a programming / technology-based [podcast](http://www.hackandheckle.com) I co-host. You can also check out my [GitHub](https://github.com/abarax).
 
 
 Experience
