@@ -18,7 +18,7 @@ Senior Software Developer, 2010 - Present
 ***Unify Project***
 
 - I was the lead on the new development of the 'Fare Search' web service. This is one of Virgin Australia's major sales channels and hence, a critical part of the business. It services millions of requests per day and required a large amount of performance investigation and architecting as well as coordination with numerous teams spanning the organisation.
-- Travelled to Dehli, India to ensure some key projects, that were outsourced, got over the line and met their deadlines. Virgin had contracts with external vendors that were dependent on the work being done in these projects and hence it was critical that they were delivered on time.  Once the projects started to delay myself and one other team member were sent to rescue them.
+- Traveled to Dehli, India to ensure some key projects, that were outsourced, got over the line and met their deadlines. Virgin had contracts with external vendors that were dependent on the work being done in these projects and hence it was critical that they were delivered on time.  Once the projects started to delay myself and one other team member were sent to rescue them.
 - Participated in the design and development of a connection manager proof-of-concept, using Oracle Coherence and OSB, to facilitate the replacement of Virgin Australia's core reservation system. This would later become a fully fledged connection pooling manager and saved hundreds of thousands of dollars from being paid to external vendors.
 
 ***AIDX Project***
@@ -27,7 +27,7 @@ Senior Software Developer, 2010 - Present
 - Wrote message parsing code of legacy airline messaging standards using the Java parser generator ANTLR.
 - Lead the design and implementation of user interface components, which forged a new understanding on the operational support that projects should provide within Virgin Australia. This lead to a vast reduction in complexity of maintenance and testing of the system.
 - Coordinated efforts between the Virgin and Sydney Airport teams to ensure successful delivery of the project to production.
-- Conducted numerous "whiteboard" design presentations to interested stakeholders within Virgin Australia.
+- Conducted numerous "white board" design presentations to interested stakeholders within Virgin Australia.
 - Took part in critical meetings as a representative of Virgin Australia to external third parties including Brisbane Airport Corporation and Sydney Airport Corporation Ltd.
 
 ***Staff Travel Project***
@@ -45,7 +45,7 @@ Senior Software Developer, 2010 - Present
 - Conducted presentations and design discussions in development team meetings.
 - Conducted design reviews, estimates and created proposals for continuous improvement.
 - Created SOA Developer workstation set-up guides as well as Oracle OSB, Weblogic and Eclipse installation guides.
-- Created an Oracle BPM workflow proof-of-concept for a catering project while working in the solutions team.
+- Created an Oracle BPM work-flow proof-of-concept for a catering project while working in the solutions team.
 
 
 ###Intelligent Pathways
@@ -56,12 +56,12 @@ Senior Software Developer, 2008 - Present
 
 - Responsible for a team of two developers.
 - Created work iterations for team members and project schedules/estimates using Atlassians bug tracking, issue tracking and project management software - JIRA.
-- Handled client relationships with project teams at Qfleet (QLD Government) and Statefleet (NSW Governement).
+- Handled client relationships with project teams at QFleet (QLD Government) and Statefleet (NSW Government).
 - Test driven development in a JEE environment using Java, Spring, Hibernate, Cross Fire.
 - Web service development using contract first designs.
 - User interface development and design using Adobe Flex.
 - Responsible for system design specification of new features and estimation of work.
-- System administration in both Linux and windows environements.
+- System administration in both Linux and windows environments.
 - Responsible for release scheduling and deployment of new versions into test and production environments.
 
 
@@ -112,13 +112,13 @@ Personal Projects
 
 ###Matasano Crypto Challenges
 
-The [Matasano Crypto Challenges!](http://www.matasano.com/articles/crypto-challenges/) are a set of increasingly difficult programming tasks that take challengers through the depths of implementing basic crypto primitives and then through the various weaknesses and attacks against them.  This has been a fantastic learning experience and I am happy to share my code with those that are interested, although that takes out a lot of the fun in doing them. I implemnted the first three sets in Python and then started again in Clojure.
+The [Matasano Crypto Challenges!](http://www.matasano.com/articles/crypto-challenges/) are a set of increasingly difficult programming tasks that take challengers through the depths of implementing basic cryptography primitives and then through the various weaknesses and attacks against them.  This has been a fantastic learning experience and I am happy to share my code with those that are interested, although that takes out a lot of the fun in doing them. I implemented the first three sets in Python and then started again in Clojure.
 
 Skills/Knowledge Gained:
 
 - A deeper understanding of Python and Clojure programming.
 - A much deeper understanding of Cryptographic primitives and algorithms.
-- Knowledge of various weaknesses in crypto systems and the attacks associated.
+- Knowledge of various weaknesses in cryptography systems and the attacks associated.
 
 
 ###Autonomous Robot
