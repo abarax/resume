@@ -17,9 +17,9 @@ Senior Software Developer, 2010 - Present
 
 ***Unify Project***
 
-- I was the lead on the new development of the 'Fare Search' web service. This is one of Virgin Australia's major sales channel's and hence, a critical part of the business. It services millions of requests per day and required an unending amount of performance investigation and architecting as well as coordination with numerous teams spanning the organisation.
-- I was requested to go on a trip to Dehli, India to ensure some key projects, that were outsourced, got over the line and met their deadlines. Virgin had contracts with external vendors that were dependant on the work being done in these projects and hence it was critical that they were delivered on time.  Once the projects started to delay myself and one other team member were sent to rescue them.
-- Participated in the design and development of a connection manager proof-of-concept, using Oracle Coherence and OSB, to facilitate the replacement of Virgin Australia's core reservation system. This would later become a fully fledged connection pooling manager and saved thousands of dollars from being paid to external vendors.
+- I was the lead on the new development of the 'Fare Search' web service. This is one of Virgin Australia's major sales channels and hence, a critical part of the business. It services millions of requests per day and required a large amount of performance investigation and architecting as well as coordination with numerous teams spanning the organisation.
+- Travelled to Dehli, India to ensure some key projects, that were outsourced, got over the line and met their deadlines. Virgin had contracts with external vendors that were dependent on the work being done in these projects and hence it was critical that they were delivered on time.  Once the projects started to delay myself and one other team member were sent to rescue them.
+- Participated in the design and development of a connection manager proof-of-concept, using Oracle Coherence and OSB, to facilitate the replacement of Virgin Australia's core reservation system. This would later become a fully fledged connection pooling manager and saved hundreds of thousands of dollars from being paid to external vendors.
 
 ***AIDX Project***
 
@@ -33,7 +33,7 @@ Senior Software Developer, 2010 - Present
 ***Staff Travel Project***
 
 - Designed and built an event driven employee processing service using BPEL, Advanced Queuing, Oracle Business Events and Oracle E-Business. This service created re-usable logic whenever employee information was added or updated in Oracle E-Business.
-- Conducted presentations demonstrating this design to key business stakeholders including the CIO at the time.
+- Conducted presentations demonstrating this design to key business stakeholders including the CIO.
 - Development of re-usable Oracle OSB web services.
 - Proposed the use of SoapUI for automated web service testing and contributed to the design and build of the framework.
 
@@ -58,7 +58,7 @@ Senior Software Developer, 2008 - Present
 - Created work iterations for team members and project schedules/estimates using Atlassians bug tracking, issue tracking and project management software - JIRA.
 - Handled client relationships with project teams at Qfleet (QLD Government) and Statefleet (NSW Governement).
 - Test driven development in a JEE environment using Java, Spring, Hibernate, Cross Fire.
-- Web service development using contract first design.s
+- Web service development using contract first designs.
 - User interface development and design using Adobe Flex.
 - Responsible for system design specification of new features and estimation of work.
 - System administration in both Linux and windows environements.
@@ -70,7 +70,7 @@ Senior Software Developer, 2008 - Present
 Software Developer, 2006 - 2008
 
 - Worked on various government client sites implementing changes and new features in Java and PL/SQL.
-- Development and maintenance of Java Web services 
+- Development and maintenance of Java Web services.
 
 
 Education
