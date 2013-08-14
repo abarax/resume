@@ -39,7 +39,10 @@ Senior Software Developer, 2010 - Present
 
 ***Unify Project***
 
-- I was the lead engineer on the new development of the 'Fare Search' web service. This is one of Virgin Australia's major sales channels and hence, a critical part of the business. It services millions of requests per day and required in depth technical architecting.
+- Lead engineer on the 'Fare Search' web service. 
+    - This is one of Virgin Australia's major sales channels.
+    - Services millions of requests per day.
+    - Required in depth technical architecting.
 - Traveled to Dehli, India to ensure some key projects, that were outsourced, got over the line and met their deadlines. 
 - Participated in the design and development of a connection manager proof-of-concept, using Java, Coherence and OSB, to facilitate the replacement of Virgin Australia's core reservation system. This would later become a fully fledged connection pooling manager and saved hundreds of thousands of dollars from being paid to external vendors.
 
