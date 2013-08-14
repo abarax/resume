@@ -8,10 +8,23 @@ Overview
 * I am a professional programmer with a passion for learning new things and solving hard problems. For more about me, you can view my [blog](http://www.leighappel.com), and listen to a programming / technology-based [podcast](http://www.hackandheckle.com) I co-host. You can also check out my [GitHub](https://github.com/abarax).
 
 
+Skills
+------
+
+|  Primary Languages  | Secondary Languages |  Frameworks      | Database Systems | Miscellaneous |
+| ------------------- | ------------------- | -----------      | ---------------- | ------------- |
+|   Java              | Clojure             | Spring, Guice    | MySQL            | Amazon Web Services |
+|   Python            | C/C++               | Django, EJB      | Oracle           | Weblogic, Tomcat    |
+|   SQL               | Javascript          | JAX-RS/WS, Ember.js | Postgres         | Glassfish, VIM     |
+|                     | Ruby                | JQuery, ANTLR    | Redis            | JMS, Apache         |
+|                     | Objective-C         | Hibernate, OSB   | Hypersonic       | Subversion, Git     |
+|                     |                     | Rails, Apple iOS  |                  |                     |
+
+
 Experience
 ---------------
 
-###Safesite - http://www.safeonsite.net (Brisbane, QLD)###
+###Safesite - www.safeonsite.net (Brisbane, QLD)###
 
 Technical Co-Founder, 2013 - Present
 
@@ -92,19 +105,6 @@ Awards
 	Griffith University, 2006
 
     -	For academic excellence in the Bachelor of Information Technology: Awarded to the student enrolled in the Bachelor of Information Technology who achieves the highest results in the third year of study.
-
-
-Skills
-------
-
-|  Primary Languages  | Secondary Languages |  Frameworks      | Database Systems | Miscellaneous |
-| ------------------- | ------------------- | -----------      | ---------------- | ------------- |
-|   Java              | Clojure             | Spring, Guice    | MySQL            | Amazon Web Services |
-|   Python            | C/C++               | Django, EJB      | Oracle           | Weblogic, Tomcat    |
-|   SQL               | Javascript          | JAX-RS/WS, Ember.js | Postgres         | Glassfish, VIM     |
-|                     | Ruby                | JQuery, ANTLR    | Redis            | JMS, Apache         |
-|                     | Objective-C         | Hibernate, OSB   | Hypersonic       | Subversion, Git     |
-|                     |                     | Rails, Apple iOS  |                  |                     |
 
 
 Personal Projects
