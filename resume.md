@@ -78,7 +78,7 @@ Education
 
 *   **Griffith University**
 
-   Bachelor of Information Technology, Computer Science 2003 - 2006
+   Bachelor of Information Technology (Computer Science) 2003 - 2006
 
 
 Awards
