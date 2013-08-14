@@ -46,34 +46,39 @@ Senior Software Developer, 2010 - Present
 - Took part in the design and development of a connection manager proof-of-concept.
     - Built using Java, Coherence and OSB
     - Facilitated the replacement of Virgin Australia's core reservation system. 
-    - Become a fully fledged connection pooling manager that saved hundreds of thousands of dollars in transaction costs.
+    - Became a fully fledged connection pooling manager that saved hundreds of thousands of dollars in transaction costs.
 - Traveled to Dehli, India to ensure key projects met their deadlines. 
 
 ***AIDX Project***
 
 - One of two engineers that designed and implemented a distributed real-time flight event processing system. 
     - Responsible for consuming hundreds of thousands of flight event messages per hour. 
-    - Required reliable message delivery to the airport's 'Flight Information Display Screens' 
+    - Required reliable message delivery to airport's 'Flight Information Display Screens' 
     - Built using Java, distributed JMS queues, topics and EJB's deployed in a clustered Weblogic environment. 
 - Developed a message parsing system using the Java parser generator ANTLR.
 - Lead the design and implementation of user interface components
-    - Built using Java web services, Stripe and jQuery. 
+    - Built using Java web services, Stripe, HTML5, CSS3 and jQuery. 
     - Forged a new understanding of the operational support provided within Virgin Australia. 
     - Reduced complexity of maintenance and debugging in production.
-- Conducted numerous "white board" design presentations to stakeholders.
+- Conducted "white board" architecture presentations to stakeholders.
 
 ***Staff Travel Project***
 
-- Designed and built an event driven employee processing service using BPEL, Advanced Queuing, Oracle Business Events and Oracle E-Business. This service created re-usable logic whenever employee information was added or updated in Oracle E-Business.
+- Designed and built an event driven employee processing service.
+    - Built using BPEL, Advanced Queuing, Oracle Business Events and Oracle E-Business. 
+    - Published employee event information to consumers.
 - Conducted presentations demonstrating this design to key stakeholders including the CIO.
-- Development of re-usable Oracle OSB and Java web services.
-- Introduced the use of SoapUI for automated web service testing and contributed to the design and build of the framework.
+- Development of re-usable Java web services.
+- Introduced the use of SoapUI for automated web service testing
 
 
 ***General***
 
-- Designed and implemented Virgin Australia's Oracle OSB automated testing and build management system using Python, Maven, Weblogic and SoapUI. This greatly increased development productivity and confidence.
-- Participated in various technical discussions and took a lead role in dictating key decisions for Virgin's technical direction. Including the use of event driven principles, Enterprise Java Beans, automated OSB builds and web service testing.
+- Designed and implemented Virgin Australia's Oracle OSB automated testing and build management system.
+    - Built using Python, Maven, Weblogic and SoapUI. 
+    - Greatly increased development productivity.
+- Participated in various technical discussions and took a lead role in dictating key decisions for Virgin's technical direction.
+    - Introduced the use of event driven principles, Enterprise Java Beans, automated builds and web service testing.
 - Conducted presentations and design discussions in development team meetings.
 
 
@@ -84,11 +89,9 @@ Senior Software Developer, 2008 - Present
 ***Car Pooling Project - Project Lead (2 years)***
 
 - Responsible for a team of two developers.
-- Created work iterations for team members and project schedules/estimates using Atlassians bug tracking, issue tracking and project management software - JIRA.
-- Test driven development in a JEE environment using Java, Spring, Hibernate, Cross Fire.
+- Test driven development using Java, Spring, Hibernate and XFire.
 - Java Web service development using contract first designs.
 - User interface development and design using Adobe Flex.
-- Responsible for system design specification of new features and estimation of work.
 - System administration in both Linux and Windows environments.
 - Responsible for release scheduling and deployment of new versions into test and production environments.
 
