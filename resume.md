@@ -47,7 +47,7 @@ Senior Software Developer, 2010 - Present
 
 - I was part of a project team of two that designed and implemented a real-time flight event processing system. This system is responsible for consuming hundreds of thousands of flight event messages per hour. This system required reliable message delivery to the airport's 'Flight Information Display Screens' and hence was built using Java, clustered JMS queues, topics and EJB's deployed in a clustered Weblogic environment. 
 - Wrote a message parsing system for legacy airline messaging standards using the Java parser generator ANTLR.
-- Lead the design and implementation of user interface components using Java web services, Stripe and JQuery. This forged a new understanding of the operational support that projects should provide within Virgin Australia. This lead to a vast reduction in complexity of maintenance and testing of the system.
+- Lead the design and implementation of user interface components using Java web services, Stripe and jQuery. This forged a new understanding of the operational support that projects should provide within Virgin Australia. This lead to a vast reduction in complexity of maintenance and testing of the system.
 - Conducted numerous "white board" design presentations to interested stakeholders within Virgin Australia.
 
 ***Staff Travel Project***
