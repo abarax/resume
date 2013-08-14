@@ -43,15 +43,24 @@ Senior Software Developer, 2010 - Present
     - This is one of Virgin Australia's major sales channels.
     - Services millions of requests per day.
     - Required in depth technical architecting.
-- Traveled to Dehli, India to ensure some key projects, that were outsourced, got over the line and met their deadlines. 
-- Participated in the design and development of a connection manager proof-of-concept, using Java, Coherence and OSB, to facilitate the replacement of Virgin Australia's core reservation system. This would later become a fully fledged connection pooling manager and saved hundreds of thousands of dollars from being paid to external vendors.
+- Took part in the design and development of a connection manager proof-of-concept.
+    - Built using Java, Coherence and OSB
+    - Facilitated the replacement of Virgin Australia's core reservation system. 
+    - Become a fully fledged connection pooling manager that saved hundreds of thousands of dollars in transaction costs.
+- Traveled to Dehli, India to ensure key projects met their deadlines. 
 
 ***AIDX Project***
 
-- I was part of a project team of two that designed and implemented a real-time flight event processing system. This system is responsible for consuming hundreds of thousands of flight event messages per hour. This system required reliable message delivery to the airport's 'Flight Information Display Screens' and hence was built using Java, clustered JMS queues, topics and EJB's deployed in a clustered Weblogic environment. 
-- Wrote a message parsing system for legacy airline messaging standards using the Java parser generator ANTLR.
-- Lead the design and implementation of user interface components using Java web services, Stripe and jQuery. This forged a new understanding of the operational support that projects should provide within Virgin Australia. This lead to a vast reduction in complexity of maintenance and testing of the system.
-- Conducted numerous "white board" design presentations to interested stakeholders within Virgin Australia.
+- One of two engineers that designed and implemented a distributed real-time flight event processing system. 
+    - Responsible for consuming hundreds of thousands of flight event messages per hour. 
+    - Required reliable message delivery to the airport's 'Flight Information Display Screens' 
+    - Built using Java, distributed JMS queues, topics and EJB's deployed in a clustered Weblogic environment. 
+- Developed a message parsing system using the Java parser generator ANTLR.
+- Lead the design and implementation of user interface components
+    - Built using Java web services, Stripe and jQuery. 
+    - Forged a new understanding of the operational support provided within Virgin Australia. 
+    - Reduced complexity of maintenance and debugging in production.
+- Conducted numerous "white board" design presentations to stakeholders.
 
 ***Staff Travel Project***
 
