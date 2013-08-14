@@ -5,11 +5,20 @@ Leigh Appel Resumé
 Overview
 ---------
 
-*	I am a professional programmer with a passion for learning new things and solving hard problems. For more about me, you can view my [blog](http://www.leighappel.com), and listen to a programming / technology-based [podcast](http://www.hackandheckle.com) I co-host. You can also check out my [GitHub](https://github.com/abarax).
+* I am a professional programmer with a passion for learning new things and solving hard problems. For more about me, you can view my [blog](http://www.leighappel.com), and listen to a programming / technology-based [podcast](http://www.hackandheckle.com) I co-host. You can also check out my [GitHub](https://github.com/abarax).
 
 
 Experience
 ---------------
+
+###Safesite - http://www.safeonsite.net (Brisbane, QLD)###
+
+Technical Co-Founder, 2013 - Present
+
+- Django back end web development for main site.
+- REST based API development for rich javascript client front end and mobile applications.
+- Ember.js front end development.
+- Amazon Web Services deployment and infrastructure management.
 
 ###Virgin Australia (Brisbane, QLD)###
 
@@ -88,18 +97,15 @@ Awards
 Skills
 ------
 
-*   Python
-*	Java
-* 	Clojure
-* 	EJB
-*	OSB 
-*	Redis
-*   Weblogic
-*   ANTLR
-*   Coherence
-*   Spring
-*	Ember
-* 	JQuery
+|  Primary Languages  | Secondary Languages |  Frameworks      | Database Systems | Miscellaneous |
+| ------------------- | ------------------- | -----------      | ---------------- | ------------- |
+|   Java              | Clojure             | Spring, Guice    | MySQL            | Amazon Web Services |
+|   Python            | C/C++               | Django, EJB      | Oracle           | Weblogic, Tomcat    |
+|   SQL               | Javascript          | JAX-RS/WS, Ember.js | Postgres         | Glassfish, VIM     |
+|                     | Ruby                | JQuery, ANTLR    | Redis            | JMS, Apache         |
+|                     | Objective-C         | Hibernate, OSB   | Hypersonic       | Subversion, Git     |
+|                     |                     | Rails, Apple iOS  |                  |                     |
+
 
 Personal Projects
 ------------------
