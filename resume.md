@@ -15,8 +15,8 @@ Skills
 | ------------------- | ------------------- | -----------      | ---------------- | ------------- |
 |   Java              | Clojure             | Spring, Guice    | MySQL            | Amazon Web Services |
 |   Python            | C/C++               | Django, EJB      | Oracle           | Weblogic, Tomcat    |
-|   SQL               | Javascript          | JAX-RS/WS, Ember.js | Postgres         | Glassfish, VIM     |
-|                     | Ruby                | JQuery, ANTLR    | Redis            | JMS, Apache         |
+|   SQL               | Javascript          | JAX-RS/WS, Ember.js | PostgreSQL         | Glassfish, VIM     |
+|                     | Ruby                | jQuery, ANTLR    | Redis            | JMS, Apache         |
 |                     | Objective-C         | Hibernate, OSB   | Hypersonic       | Subversion, Git     |
 |                     |                     | Rails, Apple iOS  |                  |                     |
 
