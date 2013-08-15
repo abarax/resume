@@ -43,7 +43,7 @@ Senior Software Developer, 2010 - Present
 - Traveled to Dehli, India to ensure key projects met their deadlines after timelines began to slip. 
     - Managed the team of developers working for Virgin's offshore partner.
     - Provided in-depth technical assistance and development expertise.
-    - Successfully delivered this part of the project to meet contractual obligations with external vendors*.
+    - Successfully delivered this part of the project to meet contractual obligations with external vendors.
 
 ***AIDX Project***
 
