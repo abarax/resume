@@ -24,7 +24,7 @@ Skills
 Experience
 ---------------
 
-###Safesite - www.safeonsite.net (Brisbane, QLD)###
+###Safesite (Brisbane, QLD)###
 
 Technical Co-Founder, 2013 - Present
 
@@ -43,7 +43,7 @@ Senior Software Developer, 2010 - Present
     - This is one of Virgin Australia's major sales channels.
     - Services millions of requests per day.
     - Required in depth technical architecting.
-- Took part in the design and development of a connection manager proof-of-concept.
+- Took part in the design and development of a connection manager.
     - Built using Java, Coherence and OSB
     - Facilitated the replacement of Virgin Australia's core reservation system. 
     - Became a fully fledged connection pooling manager that saved hundreds of thousands of dollars in transaction costs.
