@@ -24,15 +24,6 @@ Skills
 Experience
 ---------------
 
-###Safesite (Brisbane, QLD)###
-
-Technical Co-Founder, 2013 - Present
-
-- Django back end web development for main site.
-- REST based API development for rich javascript client front end and mobile applications.
-- Ember.js front end development.
-- Amazon Web Services deployment and infrastructure management.
-
 ###Virgin Australia (Brisbane, QLD)###
 
 Senior Software Developer, 2010 - Present
@@ -43,11 +34,16 @@ Senior Software Developer, 2010 - Present
     - This is one of Virgin Australia's major sales channels.
     - Services millions of requests per day.
     - Required in depth technical architecting.
-- Took part in the design and development of a connection manager.
+    - Built using Java web services, Coherence and OSB
+- Took part in the design and development of a connection pooling manager.
     - Built using Java, Coherence and OSB
     - Facilitated the replacement of Virgin Australia's core reservation system. 
-    - Became a fully fledged connection pooling manager that saved hundreds of thousands of dollars in transaction costs.
-- Traveled to Dehli, India to ensure key projects met their deadlines. 
+    - Saved hundreds of thousands of dollars in transaction costs.
+    - Greatly improved the performance of the web service API, increasing user experience.
+- Traveled to Dehli, India to ensure key projects met their deadlines after timelines began to slip. 
+    - Managed the team of developers working for Virgin's offshore partner.
+    - Provided in-depth technical assistance and development expertise.
+    - Successfully delivered this part of the project to meet contractual obligations with external vendors*.
 
 ***AIDX Project***
 
@@ -124,6 +120,16 @@ Awards
 
 Personal Projects
 ------------------
+
+###Safesite (Brisbane, QLD)###
+
+Technical Co-Founder, 2013 - Present
+
+- Django back end web development for main site.
+- REST based API development for rich javascript client front end and mobile applications.
+- Ember.js front end development.
+- Amazon Web Services deployment and infrastructure management.
+
 
 ###Matasano Crypto Challenges
 
